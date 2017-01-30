@@ -9,8 +9,7 @@ This will bring you the plugin upload page. Here you need to click on the choose
 Wordpress will now upload the plugin file from your computer and install it for you.
 * you will see a success message.
 * Once you installed , you need on  the Activate Plugin link to start using the plugin
-
-You wold have the to configure the settings to fit your needs.
+You would have to configure the settings to fit your needs.
 * Just need to put the username from fogpay and that's it.
 
 Please report bugs.
