@@ -1,4 +1,4 @@
-# Woocommerce Fogway Gateway Extension
+ Woocommerce Fogway Gateway Extension
 
 This plugin is not listed in the Wordpress plugin directory.  Please use Wordpress Upload Method to install this plugin.
 
@@ -10,8 +10,9 @@ Wordpress will now upload the plugin file from your computer and install it for 
 * you will see a success message.
 * Once you installed , you need on  the Activate Plugin link to start using the plugin
 You would have to configure the settings to fit your needs.
+* Click checkout link, "Enable the payment gateway"
 * Just need to put the username from fogpay and that's it.
-
+![](https://content.screencast.com/users/slick2/folders/Jing/media/b40a436e-753b-4fac-a363-957e2cc4c154/2017-01-27_1914.png)
 Please report bugs.
 
 
