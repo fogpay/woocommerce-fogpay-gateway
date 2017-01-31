@@ -10,7 +10,7 @@ Fogpay is a service that accept Bitcoin for your website or directly from your c
 
 This plugin is not listed in the Wordpress plugin directory.  Please use Wordpress Upload Method to install this plugin.
 
-* You need to download the plugin to your local computer
+* You need to download the plugin to your local computer, [Dowload](http://https://github.com/fogpay/woocommerce-fogpay-gateway/releases/download/ver1.0/woocommerce-fogpay-gateway.zip)
 * Go to Add New -> Add Plugins -> Upload Plugin
 This will bring you the plugin upload page. Here you need to click on the choose file button and select the plugin file you downloaded on your computer.
 * After you have selected the file, you need to click on the install now button.
