@@ -2,7 +2,7 @@
 
 ###What is Fogpay?
 
-Fogpay is a service that accept Bitcoin for your website or directly from your customers for goods and services.  FogPay imposes no volume limits, restrictions or verification requirements. Simply create a free account and begin accepting Bitcoin today.Visit [Fogpay](https://fogpay.com) and accept bitcoin's to any website.
+Fogpay is a service that accept Bitcoin for your website or directly from your customers for goods and services.  FogPay imposes no volume limits, restrictions or verification requirements. Simply create a free account at [Fogpay](https://fogpay.com) and begin accepting Bitcoin today. 
 
 
 ###Installation Instruction:
