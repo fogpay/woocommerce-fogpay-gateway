@@ -1,4 +1,12 @@
- Woocommerce Fogway Gateway Extension
+#Woocommerce Fogway Gateway Extension
+
+###What is Fogpay?
+
+Fogpay is a service that accept Bitcoin for your website or directly from your customers for goods and services.  FogPay imposes no volume limits, restrictions or verification requirements. Simply create a free account and begin accepting Bitcoin today.Visit [Fogpay](https://fogpay.com) and accept bitcoin's to any website.
+
+
+###Installation Instruction:
+
 
 This plugin is not listed in the Wordpress plugin directory.  Please use Wordpress Upload Method to install this plugin.
 
